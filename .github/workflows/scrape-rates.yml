@@ -1,0 +1,52 @@
+# ---------------------------------------------------------------
+# Roz currency rate utha kar CSV mein jama karta hai,
+# aur us CSV ko khud repo mein commit kar deta hai.
+#
+# Koi API key nahi, koi token nahi — bilkul free.
+# ---------------------------------------------------------------
+
+name: Daily Rate Scraper
+
+on:
+  schedule:
+    # Roz 3:00 UTC = 8:00 AM Pakistan
+    - cron: '0 3 * * *'
+
+  # Testing ke liye: GitHub par button daba kar chalayein
+  workflow_dispatch:
+
+# Ye zaroori hai! Iske baghair Actions repo mein likh nahi sakta.
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Qadam 1: repo utaaro
+      - name: Code checkout karo
+        uses: actions/checkout@v4
+
+      # Qadam 2: rate la kar CSV mein likho
+      - name: Rate scrape karo
+        run: bash scripts/scrape-rates.sh
+
+      # Qadam 3: agar CSV badli hai to commit kar ke push kar do
+      - name: CSV ko repo mein commit karo
+        run: |
+          # Commit kis ke naam se ho - GitHub ka apna bot
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Kuch badla bhi hai ya nahi? Na badla ho to khamoshi se nikal jao.
+          if git diff --quiet -- data/rates.csv; then
+            echo "CSV mein koi tabdeeli nahi. Commit ki zaroorat nahi."
+            exit 0
+          fi
+
+          git add data/rates.csv
+          git commit -m "Rate update: $(date -u '+%Y-%m-%d')"
+          git push
+
+          echo "CSV repo mein update ho gayi."

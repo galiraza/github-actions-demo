@@ -1,21 +1,27 @@
 #!/usr/bin/env python3
 """
-Roz ki news headlines RSS feeds se utha kar jama karta hai.
+Roz ki news RSS se uthata hai - headline AUR poora article content.
 
-Output do jagah jata hai:
-  data/news.csv              -> sari headlines ka permanent record
-  data/news/YYYY-MM-DD.md    -> us din ka parhne laiq digest
+Output teen jagah:
+  data/news.csv                        -> index (title, link, lafzon ki ginti, file ka pata)
+  data/articles/YYYY-MM-DD/<naam>.md   -> har article ka poora matn
+  data/news/YYYY-MM-DD.md              -> us din ka digest (links ke sath)
 
-Koi API key nahi chahiye. RSS feeds publicly available hain.
+Zaroori: pip install trafilatura
 """
 
 import csv
+import hashlib
 import os
+import re
 import sys
+import time
 import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+
+import trafilatura
 
 # ---- Yahan se news sources badal sakte hain -----------------------
 SOURCES = [
@@ -26,24 +32,25 @@ SOURCES = [
 
 CSV_FILE = "data/news.csv"
 DIGEST_DIR = "data/news"
-MAX_PER_SOURCE = 15          # har source se zyada se zyada kitni khabrein
-HEADERS = ["collected_utc", "source", "published", "title", "link"]
+ARTICLE_DIR = "data/articles"
 
-UA = "Mozilla/5.0 (compatible; news-scraper/1.0; +https://github.com)"
+MAX_PER_SOURCE = 10      # har source se zyada se zyada kitni khabrein
+REQUEST_DELAY = 1.5      # har article ke beech itne second rukna (tehzeeb)
+MIN_WORDS = 40           # is se chhota matn "nakam" samjha jayega
+
+HEADERS = ["collected_utc", "source", "published", "title", "link", "words", "file"]
+
+UA = "Mozilla/5.0 (compatible; news-archiver/1.0)"
 
 
 def fetch(url, timeout=30):
-    """Feed download karo. Nakami par None."""
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read()
 
 
 def clean(text):
-    """Extra spaces/newlines hata do taake CSV saaf rahe."""
-    if text is None:
-        return ""
-    return " ".join(text.split()).strip()
+    return " ".join(text.split()).strip() if text else ""
 
 
 def parse_items(xml_bytes, limit):
@@ -51,16 +58,14 @@ def parse_items(xml_bytes, limit):
     root = ET.fromstring(xml_bytes)
     items = []
 
-    # RSS 2.0
-    for item in root.iter("item"):
+    for item in root.iter("item"):                       # RSS 2.0
         items.append((
             clean(item.findtext("title")),
             clean(item.findtext("link")),
             clean(item.findtext("pubDate")),
         ))
 
-    # Atom (agar RSS items na milein)
-    if not items:
+    if not items:                                        # Atom
         ns = "{http://www.w3.org/2005/Atom}"
         for entry in root.iter(ns + "entry"):
             link_el = entry.find(ns + "link")
@@ -70,21 +75,73 @@ def parse_items(xml_bytes, limit):
                 clean(entry.findtext(ns + "updated")),
             ))
 
-    # Sirf wo jin ka title aur link dono mojood hon
     items = [i for i in items if i[0] and i[1]]
     return items[:limit]
 
 
+def slugify(source, link, title):
+    """File ka mehfooz naam banao: source + title ka tukra + link ka hash."""
+    src = re.sub(r"[^a-z0-9]+", "-", source.lower()).strip("-")
+    words = re.sub(r"[^a-zA-Z0-9\s-]", "", title).split()[:6]
+    tail = "-".join(w.lower() for w in words)
+    # Urdu titles se ascii kuch nahi bachta - us surat mein sirf hash
+    digest = hashlib.sha1(link.encode("utf-8")).hexdigest()[:8]
+    name = f"{src}-{tail}-{digest}" if tail else f"{src}-{digest}"
+    return name[:80].strip("-") + ".md"
+
+
+def get_article_text(link):
+    """Article ka asal matn nikalo. Nakami par (None, wajah)."""
+    try:
+        html = trafilatura.fetch_url(link)
+    except Exception as e:
+        return None, f"download nakam: {type(e).__name__}"
+
+    if not html:
+        return None, "download nakam: khali jawab"
+
+    text = trafilatura.extract(
+        html,
+        include_comments=False,
+        include_tables=False,
+        include_images=False,
+    )
+
+    if not text:
+        return None, "matn nahi mila (shayad paywall ya video page)"
+    if len(text.split()) < MIN_WORDS:
+        return None, f"matn bohot chhota ({len(text.split())} lafz)"
+
+    return text, None
+
+
 def load_seen_links(path):
-    """Pehle se jama shuda links, taake wohi khabar dobara na aaye."""
+    """Pehle se jama shuda links + header ka check."""
     seen = set()
     if not os.path.exists(path):
         return seen
+
     with open(path, "r", encoding="utf-8", newline="") as f:
-        for row in csv.DictReader(f):
-            link = row.get("link")
-            if link:
-                seen.add(link)
+        reader = csv.reader(f)
+        try:
+            header = next(reader)
+        except StopIteration:
+            return seen
+
+        if header != HEADERS:
+            # Purani CSV naye columns se mel nahi khati.
+            raise SystemExit(
+                f"\nERROR: {path} ka format purana hai.\n"
+                f"  Mojooda : {header}\n"
+                f"  Darkaar : {HEADERS}\n"
+                f"Hal: purani file ka backup le kar usay delete kar dein.\n"
+            )
+
+        link_idx = HEADERS.index("link")
+        for row in reader:
+            if len(row) > link_idx and row[link_idx]:
+                seen.add(row[link_idx])
+
     return seen
 
 
@@ -93,21 +150,23 @@ def main():
     stamp = now.strftime("%Y-%m-%d %H:%M:%S UTC")
     today = now.strftime("%Y-%m-%d")
 
+    day_dir = os.path.join(ARTICLE_DIR, today)
     os.makedirs("data", exist_ok=True)
     os.makedirs(DIGEST_DIR, exist_ok=True)
+    os.makedirs(day_dir, exist_ok=True)
 
     seen = load_seen_links(CSV_FILE)
     print(f"==> Pehle se jama shuda khabrein: {len(seen)}")
 
-    new_rows = []
+    # ---- 1. Sab feeds se nayi khabron ki list banao --------------
+    pending = []
     failures = []
 
     for name, url in SOURCES:
-        print(f"\n==> {name}: {url}")
+        print(f"\n==> Feed: {name}")
         try:
             items = parse_items(fetch(url), MAX_PER_SOURCE)
         except (urllib.error.URLError, ET.ParseError, OSError) as e:
-            # Ek source fail ho to baqi chalti rahein
             print(f"    NAKAM: {type(e).__name__}: {e}")
             failures.append(name)
             continue
@@ -117,57 +176,96 @@ def main():
             if link in seen:
                 continue
             seen.add(link)
-            new_rows.append([stamp, name, published, title, link])
+            pending.append((name, title, link, published))
             fresh += 1
 
-        print(f"    Feed mein {len(items)} khabrein | nayi: {fresh}")
+        print(f"    feed mein {len(items)} | nayi {fresh}")
 
-    # ---- Sab sources fail ho gaye? To job fail karo --------------
     if len(failures) == len(SOURCES):
         print("\nERROR: koi bhi feed nahi chali.")
         return 1
 
-    if not new_rows:
-        print("\n==> Koi nayi khabar nahi mili. CSV waisi hi rahegi.")
+    if not pending:
+        print("\n==> Koi nayi khabar nahi. Kuch nahi badla.")
         return 0
 
-    # ---- CSV mein likho ------------------------------------------
-    is_new_file = not os.path.exists(CSV_FILE)
+    # ---- 2. Har nayi khabar ka poora content laao ----------------
+    print(f"\n==> {len(pending)} articles ka content la rahe hain...")
+    print(f"    (har ek ke beech {REQUEST_DELAY}s ka waqfa - server par bojh na parey)\n")
+
+    new_rows = []
+    no_content = 0
+
+    for i, (source, title, link, published) in enumerate(pending, 1):
+        if i > 1:
+            time.sleep(REQUEST_DELAY)
+
+        text, why = get_article_text(link)
+
+        if text is None:
+            print(f"  [{i}/{len(pending)}] SKIP  {source}: {why}")
+            # Article na mile to bhi headline record mein rehti hai
+            new_rows.append([stamp, source, published, title, link, 0, ""])
+            no_content += 1
+            continue
+
+        filename = slugify(source, link, title)
+        path = os.path.join(day_dir, filename)
+
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(f"# {title}\n\n")
+            f.write(f"- Source: {source}\n")
+            f.write(f"- Published: {published}\n")
+            f.write(f"- Link: {link}\n")
+            f.write(f"- Collected: {stamp}\n\n---\n\n")
+            f.write(text.strip() + "\n")
+
+        words = len(text.split())
+        new_rows.append([stamp, source, published, title, link, words, path.replace("\\", "/")])
+        print(f"  [{i}/{len(pending)}] OK    {source}: {words} lafz")
+
+    # ---- 3. CSV index update karo --------------------------------
+    is_new = not os.path.exists(CSV_FILE)
     with open(CSV_FILE, "a", encoding="utf-8", newline="") as f:
-        writer = csv.writer(f)
-        if is_new_file:
-            writer.writerow(HEADERS)
+        w = csv.writer(f)
+        if is_new:
+            w.writerow(HEADERS)
             print(f"\n==> Nayi CSV bana di: {CSV_FILE}")
-        writer.writerows(new_rows)
+        w.writerows(new_rows)
 
-    print(f"\n==> {len(new_rows)} nayi khabrein CSV mein likh di gayin.")
-
-    # ---- Aaj ka digest (markdown) --------------------------------
+    # ---- 4. Aaj ka digest ----------------------------------------
     digest_path = os.path.join(DIGEST_DIR, f"{today}.md")
     by_source = {}
     for row in new_rows:
         by_source.setdefault(row[1], []).append(row)
 
-    # Append mode: din mein kai baar chale to neeche barhta jaye
     exists = os.path.exists(digest_path)
     with open(digest_path, "a", encoding="utf-8") as f:
         if not exists:
-            f.write(f"# Khabrein — {today}\n")
+            f.write(f"# Khabrein - {today}\n")
         f.write(f"\n_Jama kiya gaya: {stamp}_\n")
         for name, rows in by_source.items():
             f.write(f"\n## {name}\n\n")
-            for _, _, published, title, link in rows:
-                f.write(f"- [{title}]({link})\n")
+            for _, _, _, title, link, words, path in rows:
+                if path:
+                    local = os.path.relpath(path, DIGEST_DIR).replace("\\", "/")
+                    f.write(f"- [{title}]({link}) - [poora matn]({local}) ({words} lafz)\n")
+                else:
+                    f.write(f"- [{title}]({link}) - _matn nahi mila_\n")
 
-    print(f"==> Digest likh diya: {digest_path}")
-
+    # ---- 5. Khulasa ----------------------------------------------
+    total_words = sum(r[5] for r in new_rows)
+    bar = "=" * 46
+    print(f"\n{bar}")
+    print(f"  Nayi khabrein      : {len(new_rows)}")
+    print(f"  Content mil gaya   : {len(new_rows) - no_content}")
+    print(f"  Content nahi mila  : {no_content}")
+    print(f"  Kul lafz           : {total_words:,}")
+    print(f"  Articles yahan     : {day_dir}/")
+    print(f"  Digest             : {digest_path}")
     if failures:
-        print(f"\nNote: ye sources nakam rahe: {', '.join(failures)}")
-
-    # ---- Screen par jhalak ---------------------------------------
-    print("\n===== NAYI SURKHIYAN (pehli 10) =====")
-    for _, name, _, title, _ in new_rows[:10]:
-        print(f"  [{name}] {title}")
+        print(f"  Nakam feeds        : {', '.join(failures)}")
+    print(bar)
 
     return 0
 

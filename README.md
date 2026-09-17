@@ -225,3 +225,46 @@ hota hai. Notepad++, VS Code ya GitHub par khol kar dekhein.
 - Sirf un khabron ko rakhein jin mein koi khaas lafz ho (filter)
 - Digest ko Telegram par bhej dein
 - Mahine ke akhir mein ginti nikaalein ke kis topic par kitni khabrein aayin
+
+## Update: ab sirf title nahi, poora content bhi
+
+Script ab har nayi khabar ka **asal matn** bhi utha kar mehfooz karti hai.
+
+```
+data/news.csv                     <-- index: title, link, lafzon ki ginti, file ka pata
+data/articles/YYYY-MM-DD/*.md     <-- har article ka poora matn, alag file mein
+data/news/YYYY-MM-DD.md           <-- digest, jis mein local file ka link bhi hai
+```
+
+### Content kaise nikalta hai
+
+`trafilatura` library se. Wo HTML mein se sirf article ka matn chhant leti hai --
+menu, ads, "related stories", footer sab hata deti hai. Khud HTML parse karna
+har site ke liye alag likhna parta aur design badalte hi toot jata.
+
+```bash
+pip install -r requirements.txt
+python scripts/scrape_news.py
+```
+
+### Ahem baatein
+
+**1. Tehzeeb (politeness).** Har article ke darmiyan `REQUEST_DELAY = 1.5` second
+ka waqfa hai. Ye zaroori hai -- taraatar requests bhejna server par bojh daalta
+hai aur aap ka IP block ho sakta hai.
+
+**2. Har article nahi milta.** Paywall, video-only page, ya sirf photo wali khabar
+se matn nahi nikalta. Aisi surat mein headline phir bhi CSV mein aa jati hai,
+bas `words = 0` aur `file` khali hota hai. Job fail nahi hoti.
+
+**3. Repo ka size.** Roz ~30 articles = takreeban 150 KB. Saal bhar mein ~50 MB.
+Text hai, is liye qabil-e-bardasht. Zyada sources add karein to `MAX_PER_SOURCE`
+kam kar dein.
+
+**4. Copyright.** Article ka matn akhbar ki milkiyat hai. Apne liye archive ya
+analysis rakhna aam tor par theek samjha jata hai, lekin usay dobara publish
+karna alag masla hai. Repo public hai -- ye baat zehan mein rahe. Agar tashweesh
+ho to repo private kar dein.
+
+**5. CSV ka format badal gaya.** Ab `words` aur `file` columns bhi hain. Script
+purani CSV dekhe to saaf error deti hai bajaye chup chaap galat data likhne ke.

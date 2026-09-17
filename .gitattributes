@@ -1,0 +1,5 @@
+# Shell scripts ko hamesha LF line endings ke sath rakho.
+# Warna Windows par bani script Linux runner par
+# "$'\r': command not found" ki error deti hai.
+*.sh text eol=lf
+*.yml text eol=lf

@@ -153,3 +153,75 @@ Warna har roz khali commit banta rahega.
 data laao -> qeemat nikalo -> CSV mein line barhao.
 
 Misaal: mausam (open-meteo.com), crypto (coingecko), ya kisi bhi site ka HTML.
+
+---
+
+# Demo 3 — Daily News Scraper (RSS, koi API key nahi)
+
+Din mein teen baar news headlines jama karta hai aur repo mein commit kar deta hai.
+
+## Files
+
+```
+scripts/scrape_news.py               <-- RSS parse karta hai, CSV + digest banata hai
+.github/workflows/scrape-news.yml    <-- din mein 3 baar chalata hai
+data/news.csv                        <-- sari khabron ka permanent record
+data/news/YYYY-MM-DD.md              <-- us din ka parhne laiq digest
+```
+
+## Sources
+
+| Source | Feed |
+|---|---|
+| Dawn | `https://www.dawn.com/feeds/home` |
+| BBC Urdu | `https://feeds.bbci.co.uk/urdu/rss.xml` |
+| Geo | `https://www.geo.tv/rss/1/1` |
+
+Website ka HTML scrape karne ke bajaye **RSS** use kiya hai. Wajah:
+
+- RSS is maqsad ke liye hi banaya gaya hai — bilkul jaiz
+- Website ka design badalne se tootta nahi
+- Data saaf milta hai, guessing nahi karni parti
+
+## Source badalna ho to
+
+`scripts/scrape_news.py` ke shuru mein `SOURCES` list badal dein:
+
+```python
+SOURCES = [
+    ("Dawn",     "https://www.dawn.com/feeds/home"),
+    ("BBC Urdu", "https://feeds.bbci.co.uk/urdu/rss.xml"),
+    ("Geo",      "https://www.geo.tv/rss/1/1"),
+]
+```
+
+## Khud chala kar dekhein
+
+```bash
+python scripts/scrape_news.py
+```
+
+Dobara chalayein -> "0 nayi khabrein" aayega. Purani khabar dobara jama nahi hoti.
+
+## Ahem baatein
+
+**1. Dedupe link se hota hai.** Script pehle poori CSV parh kar sare links yaad
+kar leti hai, phir sirf nayi khabrein likhti hai. Is liye din mein 3 baar chale
+to bhi duplicate nahi bante.
+
+**2. Ek source fail ho to baqi chalti rahti hain.** Agar Geo ki site down ho,
+to Dawn aur BBC phir bhi jama ho jayengi. Job tabhi fail hoti hai jab **sari**
+feeds nakam ho jayein.
+
+**3. `concurrency` group.** Do runs ek sath chalein to git push takra jata hai.
+Ye setting unhein line mein laga deti hai.
+
+**4. Urdu text.** CSV UTF-8 mein likhi jati hai. Windows ke console par Urdu
+`?` dikh sakta hai — wo sirf console ka masla hai, file ka data bilkul theek
+hota hai. Notepad++, VS Code ya GitHub par khol kar dekhein.
+
+## Aage kya kar sakte hain
+
+- Sirf un khabron ko rakhein jin mein koi khaas lafz ho (filter)
+- Digest ko Telegram par bhej dein
+- Mahine ke akhir mein ginti nikaalein ke kis topic par kitni khabrein aayin

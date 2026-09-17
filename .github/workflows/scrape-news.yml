@@ -1,0 +1,62 @@
+# ---------------------------------------------------------------
+# Din mein teen baar news headlines jama karta hai.
+#
+# Source : RSS feeds (Dawn, BBC Urdu, Geo) - koi API key nahi
+# Output : data/news.csv  +  data/news/YYYY-MM-DD.md
+# ---------------------------------------------------------------
+
+name: Daily News Scraper
+
+on:
+  schedule:
+    # Cron UTC mein hai. Pakistan UTC+5.
+    - cron: '0 1 * * *'    # 6:00 AM PKT  - subah ki khabrein
+    - cron: '0 7 * * *'    # 12:00 PM PKT - dopahar
+    - cron: '0 13 * * *'   # 6:00 PM PKT  - shaam
+
+  workflow_dispatch:
+
+# Iske baghair Actions repo mein likh nahi sakta
+permissions:
+  contents: write
+
+# Do runs ek sath chalein to commit takra sakte hain - isay rokta hai
+concurrency:
+  group: news-scraper
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Code checkout karo
+        uses: actions/checkout@v4
+
+      - name: Python lagao
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: News scrape karo
+        run: python scripts/scrape_news.py
+
+      - name: Nayi khabrein repo mein commit karo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Kuch nayi khabar aayi bhi ya nahi?
+          if git diff --quiet -- data/ && [ -z "$(git ls-files --others --exclude-standard -- data/)" ]; then
+            echo "Koi nayi khabar nahi. Commit ki zaroorat nahi."
+            exit 0
+          fi
+
+          git add data/news.csv data/news/
+          git commit -m "News update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+
+          # Doosra run beech mein push kar chuka ho to pehle uska kaam le lo
+          git pull --rebase --autostash origin main
+          git push
+
+          echo "Nayi khabrein repo mein chali gayin."

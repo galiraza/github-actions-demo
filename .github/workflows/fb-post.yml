@@ -1,0 +1,48 @@
+# ---------------------------------------------------------------
+# Ye file GitHub ko batati hai ke KAB aur KYA chalana hai.
+# Jagah hamesha: .github/workflows/<koi-bhi-naam>.yml
+# ---------------------------------------------------------------
+
+name: Facebook Scheduled Post
+
+# ---- KAB chale? (Trigger) -------------------------------------
+on:
+  # 1) Fix time par khud chale
+  schedule:
+    # Cron hamesha UTC mein hota hai!
+    # Pakistan UTC+5 hai, to 9:00 AM PKT = 4:00 UTC
+    #
+    #        minute  ghanta  din-mahina  mahina  din-hafta
+    - cron: '0       4       *           *       *'
+
+  # 2) Button daba kar manually bhi chalayein (testing ke liye)
+  workflow_dispatch:
+
+  # 3) (optional) Jab main branch par push ho, tab bhi chale
+  push:
+    branches: [ main ]
+
+jobs:
+  post-to-facebook:
+    # GitHub ka free computer jahan ye sab chalega
+    runs-on: ubuntu-latest
+
+    steps:
+      # Qadam 1: repo ka code us computer par utaaro
+      - name: Code checkout karo
+        uses: actions/checkout@v4
+
+      # Qadam 2: sirf dikhane ke liye - waqt kya hai
+      - name: Waqt dikhao
+        run: |
+          echo "UTC waqt : $(date -u)"
+          echo "Trigger   : ${{ github.event_name }}"
+
+      # Qadam 3: asli kaam - post wali script chalao
+      - name: Facebook post bhejo
+        env:
+          # Ye values GitHub Secrets se aati hain.
+          # Agar set na hoon to script DRY RUN mein chalti hai.
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
+        run: bash scripts/post.sh

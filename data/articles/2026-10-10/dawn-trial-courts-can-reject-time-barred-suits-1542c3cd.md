@@ -1,0 +1,26 @@
+# Trial courts can reject time-barred suits on their own initiative: SC
+
+- Source: Dawn
+- Published: Sat, 10 Oct 2026 08:07:48 +0500
+- Link: https://www.dawn.com/news/2036082/trial-courts-can-reject-time-barred-suits-on-their-own-initiative-sc
+- Collected: 2026-10-10 06:39:58 UTC
+
+---
+
+• Courts should nip vexatious litigation in the bud to save judicial time, says Justice Mazhar
+• SHC order in Askari IV bungalow case set aside
+• Trial court directed to decide civil suit’s maintainability after giving both parties adequate opportunity of hearing
+ISLAMABAD: The Supreme Court has ruled that a trial court can reject a palpably vexatious or time-barred lawsuit on its own initiative at the earliest stage, without waiting for a formal application from the defendant.
+“There is no bar or embargo under Section 3 of the Limitation Act, 1908, or Order VII, Rule 11 of the Code of Civil Procedure (CPC), 1908, preventing a court from dismissing a suit or rejecting a plaint on its own initiative, without a formal application from the defendant, if it is barred by law,” observed Justice Muhammad Ali Mazhar while heading a three-judge SC bench that took up an appeal against a Sindh High Court (SHC) order.
+The case concerned a dispute over a house in Army Officers Housing Colony, Askari-IV, on Rashid Minhas Road in Karachi.
+The original plaintiffs, including Abdul Wahab Shah, had filed a suit seeking a declaration, possession and partition. In September 2024, the trial court rejected their plaint, ruling that the suit was barred by limitation. The plaintiffs challenged the decision before the SHC, which set aside the rejection order and directed that all pending applications, including one seeking amendment of the plaint, be decided together. The defendant, Muhammad Islam Badshah, then challenged the high court’s decision before the SC.
+In an eight-page order, Justice Mazhar observed that a court’s power to reject a plaint did not always depend on an application under Order VII, Rule 11 of the CPC. The powers conferred by Section 3 of the Limitation Act were broader in cases where a suit was found to be time-barred, allowing the court to dismiss it and bring the proceedings to a close.
+A court was responsible for dismissing fundamentally flawed suits to save judicial time and prevent unnecessary litigation, without conducting a mini-trial or examining the written statement, the judge said.
+If a plain reading of the plaint showed that it was palpably vexatious or meritless, the trial court could invoke Order VII, Rule 11 of the CPC to terminate sham litigation at the earliest stage. This applied where the plaint disclosed no actionable legal right or injury constituting a cause of action, or where the suit was expressly barred by an applicable statute or law, the judgment stated.
+The court could exercise this power even before issuing summons to the other side, thereby saving judicial time and shielding parties from vexatious and misconceived litigation, Justice Mazhar emphasised.
+Before rejecting a plaint, however, the court must examine whether it discloses a cause of action; whether the relief claimed is undervalued and, if so, whether the plaintiff has failed to correct the valuation within the prescribed time; and whether the relief is properly valued but the plaint is written on insufficiently stamped paper, with the plaintiff failing to supply the required stamp paper within the time allowed. The court must also determine whether the suit appears, from the statements in the plaint, to be barred by law, the judgment said.
+The underlying principle is that ineffectual and unproductive lawsuits should be disposed of at the outset so that judicial resources can be devoted to serious and genuine disputes. At the same time, courts should not allow procedural manoeuvres designed to delay proceedings. A meaningful reading of the plaint is essential to reach a just conclusion, the judgment added.
+If a suit is inherently incompetent because of an express or implied legal bar, rather than a formal, technical or curable defect, it should not be allowed to burden judicial proceedings further. However, the law does not permit the rejection of a plaint in parts. If even one prayer is maintainable, the entire plaint cannot be rejected. Where questions of law and fact are intertwined, the suit should proceed to the written statement and discovery stages. The court may then determine the dispute by framing preliminary issues or conducting a regular trial, ensuring both parties have an equal opportunity to present their cases.
+The proper course in such matters is to frame issues and decide them on merit in light of the evidence. Courts must ensure substantial justice and avoid leaving parties without a remedy, the judgment held.
+Concluding the order, the SC directed the trial court to decide the maintainability of the civil suit in accordance with law after giving both parties an adequate opportunity of hearing, and then proceed further. The SC also set aside the SHC’s Feb 6, 2025, order to the extent that it directed the question of maintainability to be decided alongside the application seeking amendment of the plaint.
+Published in Dawn, October 10th, 2026

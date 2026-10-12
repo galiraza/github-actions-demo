@@ -1,0 +1,51 @@
+# Pakistani national killed, 11 wounded as Riyadh airport hit by Houthi strike
+
+- Source: Dawn
+- Published: Mon, 12 Oct 2026 08:49:39 +0500
+- Link: https://www.dawn.com/news/2036412/pakistani-national-killed-11-wounded-as-riyadh-airport-hit-by-houthi-strike
+- Collected: 2026-10-12 06:55:48 UTC
+
+---
+
+A fresh Houthi strike hit Riyadh’s international airport on Sunday, killing one person — a Pakistani resident — and wounding 11 others, a day after another deadly attack claimed by the Yemeni group forced authorities to suspend operations there.
+Saturday’s attack, the deadliest on Saudi soil in more than a decade, was a sharp escalation in the Yemen war, where Riyadh has long militarily supported the internationally recognised government against the Houthis.
+The group on Sunday claimed multiple attacks over the last 24 hours, including on the airport, and threatened to keep targeting the kingdom’s transit hubs, calling them “a theatre of operations for our forces”.
+Hours later, the Saudi-led coalition fighting the group reported that a projectile struck King Khalid International Airport, sparking a fire.
+Air defences also intercepted a missile nearby, it added.
+The fresh attack on the airport killed one person — a Pakistani resident — and wounded 11 others, Saudi Arabia’s civil aviation authority said on X.
+Authorities have extended the closure of the airport by 24 hours until 2100 GMT (2am PKT) on Monday, the tracking site Flightradar24 said on the same platform.
+AFP journalists and locals reported hearing multiple blasts in the Saudi capital on Sunday.
+“The birds went into a frenzy after the sound. The whole house shook,” said one resident of the Al-Aarid neighbourhood in the north of the city.
+The civil aviation authority also reported another attack on Dammam airport in the east — which the Houthis also said they had targeted — a day after the Saudi coalition reported a projectile landing nearby.
+Shortly afterwards, the coalition reported shooting down a drone, also in the east.
+It said early on Monday that it had also “intercepted and destroyed” a Houthi ballistic missile heading for the southern Saudi city of Khamis Mushait, home to a major military base.
+‘Full-fledged war crime’
+The Houthis have stepped up their attacks on the Riyadh airport — where three people were also killed on Thursday — as well as on other key targets in the world’s top crude oil exporter.
+And although Saudi Arabia has poured billions into its military, Houthi attacks continue to slip through.
+“Saudi air defences have been able to intercept some Houthi missile and drone attacks, but Saudi Arabia is so large that it’s simply impossible for them to consistently defend themselves against Houthi attacks,” said Thomas Juneau, security analyst at Ottawa University.
+The anti-Houthi coalition called Saturday’s attack a “full-fledged war crime” and vowed to “respond decisively”.
+Houthi media reported two Saudi strikes in Yemen’s Houthi-controlled Sanaa governorate on Sunday.
+Saturday’s attack drew condemnation from the United Nations and leaders around the world, including US President Donald Trump, who said he was considering joining Saudi strikes against the Houthis.
+Israeli Prime Minister Benjamin Netanyahu, whose country does not have diplomatic relations with Saudi Arabia, also denounced the “horrific terrorist attack”.
+Four Saudi citizens, two Bangladeshis, one American, one Egyptian, one Jordanian, one Syrian, one Palestinian and one Sudanese were killed, the civil aviation authority said, with 309 wounded.
+The Indian embassy in Saudi Arabia also said one of its citizens died on Sunday after being wounded the day before.
+A Riyadh-based Western diplomat told AFP the official number of injured may not give a full picture, as it did not appear to include those with minor wounds.
+Operations suspended
+Authorities suspended operations at the airport into Sunday, a senior aviation source said, with air traffic monitor Flightradar24 saying the closure was extended until 21:00 GMT (2am PKT on Monday).
+A second aviation source confirmed the halt in operations “until further notice”, adding radar and communications equipment was damaged and runways needed to be assessed.
+Witnesses to Saturday’s strike described chaos in the aftermath.
+“People who were in Terminal 3 started running towards us,” a 32-year-old Riyadh resident told AFP.
+“Some had lost a hand or an arm. People were running while carrying injured people, covered in blood.”
+The attack prompted health officials to activate a rare mass call-up of doctors, a medical source said.
+The US, Canadian, German and Spanish embassies in Saudi Arabia have warned their citizens to avoid Riyadh airport, while Australia urged its citizens on Sunday to stay indoors altogether and “shelter in place”.
+The Houthis also claimed to have targeted the Dammam airport, whose official website on Sunday showed many flights — both departures and arrivals — were delayed.
+‘Rewrite the rules’
+Saturday’s airport strike, on the eve of Saudi Arabia’s high-profile convention and entertainment season, was the deadliest attack in the kingdom since a 2015 suicide bombing.
+With the summer heat subsiding, October also usually marks the beginning of the high season for Umrah pilgrims, with millions of Muslims from across the world flocking to Makkah.
+Saudi Arabia leads an international coalition that has supported Yemen’s government militarily since 2015, including by seeking to exert control over Yemeni airspace and the airport in the Houthi-held capital Sanaa.
+Ottawa University’s Juneau said the Houthis now “want to rewrite the rules of the game”.
+“They want to do to Saudi Arabia what Saudi Arabia does to them,” he said.
+“So if their airport in Sanaa has to be closed because of the Saudi air embargo, they want to do the same thing to Saudi Arabia.”
+On the ground in Yemen, Saudi-supported government forces were advancing in their counter-offensive against the Houthis around the Bab al-Mandab strait, a key shipping route, military sources said on Saturday.
+The Houthis claimed to have repelled them.
+Claims by both sides have been impossible to independently verify, with the situation moving fast on the ground and access for journalists difficult.

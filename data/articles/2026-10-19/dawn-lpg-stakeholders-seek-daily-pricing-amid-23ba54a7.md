@@ -1,0 +1,22 @@
+# LPG stakeholders seek daily pricing amid soaring rates
+
+- Source: Dawn
+- Published: Mon, 19 Oct 2026 08:36:56 +0500
+- Link: https://www.dawn.com/news/2038194/lpg-stakeholders-seek-daily-pricing-amid-soaring-rates
+- Collected: 2026-10-19 05:41:24 UTC
+
+---
+
+ISLAMABAD: As liquefied petroleum gas (LPG) prices surge following the closure of the Rahimdad-250 border post, market stakeholders on Sunday urged the government to shift from monthly to weekly or daily pricing, in line with petroleum products, and delink rates from Saudi Aramco’s Contract Price (CP).
+The demand comes ahead of winter, when LPG consumption traditionally rises, increasing the risk of hoarding, blackmarketing and artificial price hikes, particularly in remote and hilly areas. Stakeholders say the LPG policy, unchanged for over a decade, no longer reflects market realities. Although prices are benchmarked to Saudi CP, supplies largely come from Iran, Oman, the UAE and Iraq, including Iranian LPG allegedly routed through alternative sea channels.
+They argue that advance monthly prices notified by the Oil and Gas Regulatory Authority (Ogra) discourage major state-owned enterprises (SOEs) from importing LPG, leaving the market vulnerable to private importers and land-route suppliers amid weak enforcement. Petroleum Minister Ali Pervaiz Malik and ministry spokesman Zafar Abbas did not respond to written queries.
+  Border closures, outdated pricing and weak oversight fuel LPG market crisis
+The Ministry of Commerce’s October 16 memorandums withdrawing electronic import form (EIF) exemptions for Iranian imports and shipments to Central Asian Republics (CARs) and Azerbaijan via Iran have further disrupted supplies. More than 4,500 tonnes of LPG are reportedly stranded on the Iranian side.
+Pakistan consumes nearly two million tonnes of LPG annually, of which 30 per cent is produced domestically and 70pc imported. Of the 1.2 million tonnes imported, around 250,000 tonnes arrive through Port Qasim and nearly one million tonnes through Iranian routes, including Taftan, Mand and Rahimdad-250. Taftan has remained closed for nearly six months over security concerns, while Mand faces intermittent disruptions, increasing reliance on Rahimdad-250.
+Mohammad Ali Haider, vice chairman of the LPG Marketing Association, representing over 200 companies, said prices rose by Rs100 per kilogram over the weekend following withdrawal of the trade exemption and could climb further without immediate intervention.
+He said no imports were currently arriving at Saudi CP-based prices. Before the war, Iranian auctioned LPG reached the border at $100-150 per tonne below Saudi CP. War-related insurance and freight premiums have since pushed costs to around $300 per tonne above CP, making Ogra’s benchmark increasingly unrealistic.
+Mr Haider said oil prices had shifted to daily adjustments after the war began, while LPG remained tied to advance monthly notifications disconnected from actual costs. Consequently, major players, including SSGC, SNGPL and Pak-Arab Refinery, avoid imports at notified rates, fearing accountability investigations.
+Border disruptions have also shifted pressure to Gwadar, pushing freight costs from $60-80 to as high as $380 per tonne. Mr Haider alleged that manipulated freight arrangements, questionable import declarations and the absence of digital tracking of tankers, transporters and distributors facilitated profiteering and tax evasion.
+He also criticised a petroleum division directive requiring SOEs to auction LPG against signature bonuses, arguing that the mechanism favoured cash-rich companies. Pakistan Petroleum Limited had previously allocated production through transparent bidding, offering 25 tonnes monthly to each successful bidder. A relatively obscure company reportedly offered a Rs220 million signature bonus for a five-tonne quota, prompting allegations of money laundering and consumer exploitation. Litigation has stalled the process.
+Mr Haider urged the government to review the LPG policy with stakeholders, revise the Rs35,000-per-tonne marketing margin fixed in 2016, digitally track imports and distribution, and publish daily prices on Ogra’s website. He also questioned the use of a Rs4,690-per-tonne petroleum levy introduced in 2016 to cushion consumers against price shocks, saying it was not serving its intended purpose.
+Published in Dawn, October 19th, 2026

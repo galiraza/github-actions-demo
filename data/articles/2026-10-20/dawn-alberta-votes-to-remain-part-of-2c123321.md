@@ -1,0 +1,26 @@
+# Alberta votes to remain part of Canada
+
+- Source: Dawn
+- Published: Tue, 20 Oct 2026 11:45:47 +0500
+- Link: https://www.dawn.com/news/2038496/alberta-votes-to-remain-part-of-canada
+- Collected: 2026-10-20 12:29:51 UTC
+
+---
+
+Alberta residents voted to remain part of Canada in the province’s first-ever referendum on separation, in a much-needed win for Prime Minister Mark Carney as he attempts to unify the country amid a trade war with the US.
+CBC News, Canada’s government-funded national broadcaster, called the result late Monday after 33 per cent of the vote had been counted. At the time of the call, 76pc of tallied votes were in support of the “remain” side versus 23pc in favour of the province moving forward with a binding vote on separation. The referendum was nonbinding.
+“Albertans made a clear choice,” Prime Minister Mark Carney said in a statement.
+“They chose unity, to build together, and to take care of each other.”
+“Canada is greater than the sum of its parts,” he said.
+Pollsters and analysts had repeatedly dismissed the possibility of a separatist victory, citing data that showed about one-third of residents in the western province supported a future referendum on leaving.
+Alberta Premier Danielle Smith announced the referendum in May, saying it was time to have a vote, understand the will of Albertans on this subject, and move on.
+Late Monday, Smith issued a statement on social media saying she was “very pleased” that early results show widespread support for remaining in Canada. She said she would address Albertans on Tuesday to discuss the results and “where our province goes from here.”
+A small but vocal group of separatists has campaigned for months for an independent Alberta, arguing that the province’s energy wealth is subsidising poorer parts of Canada and that Alberta would be far richer without Ottawa bureaucracy impeding its path.
+Last week, Carney told a rally in Calgary that voting to leave Canada would be a dangerous bluff that will lead to years of deep division, and appealed to Albertans to vote like Canada depends on it.
+Carney, who grew up mostly in Alberta, acknowledged that Albertans have often felt slighted by Ottawa and said his government had approved a proposed new pipeline, adding that Alberta is critical to helping Canada reduce its dependence on the US.
+Alberta’s referendum follows two previous referendums on separation in the majority French-speaking province of Quebec. Quebecers voted to stay in Canada in both instances.
+First Nations groups have also objected to the idea of an independent Alberta, as their land treaties with Ottawa predate the province’s creation within Canada.
+CBC News reported strong turnout from First Nations. One southern Alberta polling station in an area that is home to the Siksika Nation temporarily ran out of ballots, and then stayed open until after 10 pm MT (9 am PKT) to ensure everyone in line had the chance to vote.
+Still, Monday’s referendum is unlikely to end the separatist movement in Alberta. Before the referendum, some separatist leaders said they would continue to pursue another vote even if most Albertans voted to remain.
+According to data released on October 16 by the pollster Angus Reid, 62pc of Albertans believe there will never be an end to the separatist movement in the province.
+Alberta’s referendum also included nine other nonbinding questions on topics including immigration, access to provincial services such as education, social care and healthcare and voter identification requirements. Results for those questions were still trickling in.

@@ -1,0 +1,32 @@
+# Lucky Group, Qatar Energy consortium quits Port Qasim LNG terminal plan over 'policy changes'
+
+- Source: Dawn
+- Published: Mon, 26 Oct 2026 18:42:56 +0500
+- Link: https://www.dawn.com/news/2039968/lucky-group-qatar-energy-consortium-quits-port-qasim-lng-terminal-plan-over-policy-changes
+- Collected: 2026-10-26 13:49:46 UTC
+
+---
+
+ISLAMABAD: Energas, a consortium of the Lucky Group and Qatar Energy, has given up a multi-million-dollar plan to establish a liquefied natural gas (LNG) terminal at Port Qasim, citing fundamental changes to Pakistan’s energy policy, requirements and longstanding unresolved policy and fiscal matters, it emerged on Friday.
+On the other hand, the Port Qasim Authority (PQA) has warned Energas of terminating its final letter of intent (LOI) unless an “unconditional acceptance” is received on or before Nov 30, 2026, along with an updated status of the project.
+This would also result in forfeiture of the $2 million initial concession fee, PQA said.
+Subsequently, Energas has approached the prime minister for the refund of $2m, absolving it of any contractual lapse and instead blaming the government and factors beyond its control for not moving ahead.
+Informed sources told Dawn that Qatar Energy had booked an LNG terminal and committed to supply additional LNG quantities at around 10.2pc of Brent — almost the same rate it contracted to Pakistan State Oil under a second-term contract — to ensure full utilisation of terminal capacity on its own.
+Qatar has been seeking pipeline capacity allocation for LNG transportation through the terminal it planned with local partners near Karachi, a level playing field for LNG marketing and a terminal, and exemption from third-party access (TPA) that requires certain terminal capacity for use by government entities.
+Ahead of Prime Minister Shehbaz Sharif’s August 2022 visit to Qatar, Pakistan approved changes to the LNG policy to remove restrictions on upcoming private sector LNG terminals to provide their part capacity to the government.
+These were officially conveyed to the Qatari counterpart by then-petroleum minister Musadik Malik for re-engaging on LNG sector cooperation, including speedy completion of the LNG terminal and another long-term contract for more gas supplies on top of two existing long-term contracts, in addition to LPG supplies.
+While the energy situation kept changing, the project could not move forward over the subsequent three years as Pakistan sought diversion of its existing contracted LNG cargoes even before this year’s closure of the Strait of Hormuz following the Feb 28 US-Israel attacks on Iran and suspension of Qatar’s LNG production.
+Quoting past correspondence, Energas’s chairman Muhammad Ali Tabba complained to PM Shehbaz that PQA was “demanding” Energas’s unconditional acceptance of the final LOI by Nov 30, 2026, failing which PQA will cancel the final LOI and forfeit the $2m initial concession fee paid by Energas.
+He said the Lucky Group Consortium had taken up a self-funded project in good faith and in response to Pakistan’s energy requirements prevailing at the relevant time, which had since materially changed.
+“Energas’s inability to proceed with the project is attributable to two critical factors: firstly, a fundamental change in national energy policy and requirements, resulting in a clear frustration of purpose; and secondly, the persistent and longstanding unresolved policy and fiscal matters with the government, PQA and other government bodies/authorities, which have continuously impeded the viability”, he noted.
+The Energas chairman contended that those issues remain unresolved to date, which could have led to a final investment decision (FID) by Qatar Energy and Pakistani partners.
+“The government had committed to resolving these matters following discussions with the State of Qatar. However, despite the passage of time, the aforesaid matters remain unresolved, thereby adversely affecting investor interest,” Tabba said.
+He added that the national energy requirements and the policy environment had materially evolved since the project was originally conceived and Energas had already approached PQA for the return/refund of the partial concession fee.
+Energas said Pakistan’s official Integrated Energy Study (IES) — Final Report of March 28, 2025 confirmed that no new LNG terminals were required over the next five years.
+According to Energas, this “unequivocal admission” on the part of the government materially alters the circumstances and context in which the Energas project was conceived and directly affects the necessity and economic rationale for the project, resulting in a clear frustration of purpose from an investor’s perspective.
+It recalled that at the time of issuance of the provisional LOI in May 2020, the LNG Policy 2011 provided LNG terminal operators with a five-year tax holiday commencing from the Commercial Operations Date, but the exemption was withdrawn in June 2021 for new terminals while existing terminal beneficiaries continued to avail the exemption.
+This was attributed to conditions imposed by the International Monetary Fund (IMF); thus, the proposed LNG terminal became “redundant and infructuous”, Energas said.
+In its letter to Energas, PQA said the $2m deposited by Energas was not an ordinary refundable advance but an initial/partial concession fee under Clause 2.6(i) of the Project Guidelines 2019 that provides that this amount may be forfeited if the developer fails to fulfil the required conditions within the prescribed time, unless the parties agree otherwise. Furthermore, paragraph 27 of the final LOI required LOI termination and forfeiture of $2m in the absence of unconditional acceptance within the deadline.
+Highlighting Energas’s reasons regarding pipeline capacity allocation, execution of Gas Transportation Agreements (GTAs) with gas companies, allocation of tie-in area, exemption under TPA Rules and the income-tax exemption issue, PQA asserted that Energas was responsible for these developers’ obligations.
+“Project Guidelines require the developer to undertake the necessary surveys, investigations, environmental studies, hydraulic studies, detailed design and other project-related studies, and to obtain the requisite governmental and regulatory approvals,” PQA pointed out.
+It added that it was also the developers’ responsibility to have financing, design, construction, relevant access, regulatory compliance and other project requirements.

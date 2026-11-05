@@ -1,0 +1,43 @@
+# FCC bars PHC from hearing cases related to PTI workers' preventive detention
+
+- Source: Dawn
+- Published: Thu, 05 Nov 2026 18:35:11 +0500
+- Link: https://www.dawn.com/news/2042319/fcc-bars-phc-from-hearing-cases-related-to-pti-workers-preventive-detention
+- Collected: 2026-11-05 15:07:57 UTC
+
+---
+
+ISLAMABAD: The Federal Constitutional Court (FCC) on Thursday restrained the Peshawar High Court (PHC) from hearing cases related to the preventive detention of PTI workers and activists under the Maintenance of Public Order Ordinance (MPO) following the imposition of emergency and governor’s rule in Khyber Pakhtunkhwa.
+The directive was issued by a two-judge bench, headed by Chief Justice Aminuddin Khan and including Justice Aamer Farooq.
+“Since the armed forces have been called to act in aid of civil power in the entire province of KP pursuant to the Oct 11 order … the proceedings before the PHC instituted under Article 199 on or after Oct 12 shall, in terms of clause 4 of Article 245, remain suspended,” ordered the two-judge bench.
+The bench took up a set of petitions challenging interim bail of the detainees, granted by the PHC against surety bonds of Rs100,000 each.
+The PHC had issued the interim orders in the absence of any report by the provincial government explaining reasons and circumstances that led to the detention of PTI activists and also directed that they should not be arrested pending the cases related to their detentions before the high court. The PHC will next hear the case on Nov 12.
+The court order also directed KP Advocate General Sanaullah Khan to furnish a report to the top court within seven days in relation to the areas in KP where the armed forces were no longer required to act in aid of civil power.
+The FCC said it may consider modifying the present order in terms of clause 4 of Article 245, which provides for calling in armed forces in aid of civil forces, after examining the report so furnished.
+The FCC also issued notice to the respondents, saying since important questions involving interpretation of the Constitution were involved, notice should also be issued to the attorney general for Pakistan under Order XXVIIA of the Code of Civil Procedure, 1908.
+More than 60 appeals challenging the PHC’s interim orders have been fixed before the FCC. The pleas were moved by the KP Home and Tribal Affairs Department additional chief secretary.
+In its order, the FCC observed that the points raised during the hearing needed serious consideration, recalling that the earlier judgment of the PHC in Aftab Alam’s case, relying on which the impugned orders have been passed, required careful examination to ascertain whether the view adopted by the high court on Article 245 of the Constitution was constitutionally correct.
+For the purposes of the instant petitions, FCC also referred to clauses 3 and 4 of Article 245 of the Constitution in its order.
+Under clause 3, a high court shall not exercise any jurisdiction under Article 199 in relation to any area in which the armed forces of Pakistan are, for the time being, acting in aid of civil power in pursuance of Article 245: Provided that this clause shall not be deemed to affect the jurisdiction of the High Court in respect of any proceeding pending immediately before the day on which the Armed Forces start acting in aid of civil power.
+Likewise, under clause 4, any proceeding in relation to an area referred to in clause 3 instituted on or after the day the armed forces start acting in aid of civil power and pending in any high court shall remain suspended for the period during which the armed forces are so acting.
+Prima facie, clause 3 of Article 245 is not an ouster clause in the nature as it appears elsewhere in the Constitution such as Article 236(2), where despite an ouster, the courts have examined the constitutionality of any proclamation issued under Part X of the Constitution, the FCC observed.
+Clause 3 of Article 245 referred to a particular situation which is emergent but temporary in nature, the order said.
+Thus, the bar on exercising jurisdiction also lasts for so long as the armed forces are acting in aid of civil power. This and other questions raised in the instant proceedings require a careful examination and an authoritative pronouncement by the FCC, the order emphasised.
+The FCC order also recalled how the proclamation was issued by the President on Oct 11, 2026 under Articles 232 and 234 of the Constitution, following which the federal government assumed control of KP through the governor.
+Following the proclamation, the federal government authorised deployment of Pakistan Army in aid of civil power for safety of life, security of person and property of citizens as well as security of government installations in KP vide Oct 11 order issued under Article 245 of the Constitution, the order noted.
+Pursuant to the said orders, the Ministry of Interior requisitioned troops of armed forces vide office memorandum dated Oct 12, 2026. The Ministry of Defence made the troops deployed in the KP to act in aid of civil power across the province vide office memorandum of the even date, the order said.
+Consequently, several persons were placed in preventive detention under the Maintenance of Public Order Ordinance, 1960 (MPO) for maintenance of public peace and order. The detention orders issued under section 3 of the MPO were assailed before the PHC, which, while relying on its 2024 judgment titled Aftab Alam and another vs. Secretary Home and Tribal Affairs, KP government released them in limine, the order stated.
+The KP advocate general, who pleaded the case before the FCC on behalf of the provincial government, told Dawn that the PHC’s orders had been challenged under Article 245 of the Constitution.
+He cited clause 3 of the provision, arguing that a high court could not “directly entertain a case under Article 199 of the Constitution since it cannot exercise its jurisdiction in relation to any area in which the armed forces are acting in aid of the civil power”.
+When the KP advocate general presented this argument before the FCC, Justice Farooq observed that a high court received several cases under Article 199 on a daily basis.
+“Does this mean the high court should not hear such cases?” he questioned.
+The advocate general replied that matters such as tenancy disputes could be taken up as the high court was approached for these cases after the matter was referred to competent forums.
+Former additional advocate general Shah Faisal Ilyas, who was representing one of the parties, raised an objection during the proceedings and requested the court to hear the parties before issuing any injunctive order, asserting that the objections raised by the provincial government against the high court’s order were untenable.
+CJ Khan then directed the counsel to furnish his formal objections after going through the FCC’s order first and stated that the court was issuing notices to the respondents.
+The KP advocate general said while speaking to Dawn that the framers of the Constitution had provided protection to provisions relating to the preventive custody under Article 10 (safeguards as to arrest and detention).
+He specifically cited clauses 3 and 4 of the provision and contended that provisions of the MPO were invoked on the basis of “subjective analysis of the government functionary to prevent any action prejudicial to the public safety and law and order”.
+The FCC’s directive comes less than a month after the federal government imposed emergency and governor’s rule in KP on Oct 11, citing the provincial government’s “deliberate disengagement” from the fight against terrorism.
+The move has drawn criticism from the opposition, including Jamiat Ulema-i-Islam-Fazl chief Maulana Fazlur Rehman, National Assembly Opposition Leader Mehmood Khan Achakzai and Senate Opposition Leader Raja Nasir Abbas.
+In the days preceding the imposition of governor’s rule in KP, political tensions between the Centre and the opposition — including the PTI which was in power in KP — had remained high since jailed former prime minister Imran Khan’s party announced a protest march to Islamabad to demand his release. Intense negotiations between the two sides a week before the imposition of governor’s rule had failed to yield any results.
+Scores of PTI workers and leaders had been detained following the Oct 11 move, including lawmakers. Sohail Afridi, who has been rendered non-functional as the chief minister after the imposition of governor’s rule, has also been detained.
+The PHC remains seized with petitions against these detentions, including that of Afridi.

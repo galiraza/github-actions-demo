@@ -1,0 +1,34 @@
+# Nepra raises industrial tariff to Rs25.30 per unit, despite dissent
+
+- Source: Dawn
+- Published: Sat, 07 Nov 2026 07:18:56 +0500
+- Link: https://www.dawn.com/news/2042708/nepra-raises-industrial-tariff-to-rs2530-per-unit-despite-dissent
+- Collected: 2026-11-07 06:48:20 UTC
+
+---
+
+• Two members oppose revision, saying actual marginal cost stands at Rs31.83/unit
+• Power regulator warns of package suspension and legal action over missed deadlines
+• Consumers to pay an additional Rs2.37/unit in Nov bills to recover Rs25bn under fuel cost adjustment
+ISLAMABAD: The National Electric Power Regulatory Authority (Nepra) on Friday announced a controversial revision of a special electricity tariff introduced as an incentive to revive industrial activity, while approving an additional burden of Rs2.37 per unit on electricity consumers for November.
+The decision, opposed by the industrial sector, is likely to have a negative impact on all electricity consumers, including those served by K-Electric and other distribution companies (Discos).
+All four members of the regulator unanimously held the Power Division and its subordinate entities responsible for failing to fulfil their legal obligations within the prescribed timelines, pushing Nepra into an unprecedented deadlock and potentially increasing costs for electricity consumers across the country.
+At the centre of the controversy was an incremental support package (ISP) of Rs22.98 per unit introduced for industrial consumers in December last year. Industrialists have been protesting against the package since May, seeking its suspension on the grounds that it had failed to benefit them and was instead increasing their electricity bills. The package was due for a review after the completion of its first six months in June, based on the lessons learnt during its implementation.
+Following a belated request from the Power Division, despite repeated reminders from the regulator, Nepra on Friday revised the ISP rate to Rs25.30 per unit. The decision was strongly opposed by its two most relevant members, those responsible for tariff and development matters.
+Interestingly, Nepra Chairman Waseem Mukhtar fully endorsed the written arguments and positions taken by the dissenting members but subsequently exercised his special casting vote to approve the revised rate of Rs25.30 per unit instead of retaining the existing rate of Rs22.98. The authority was divided 2-2 on the matter.
+Member Tariff Amina Ahmed and Member Development Maqsood Anwar, in a joint dissenting note, maintained that even the proposed revised rate of Rs25.30 per unit was a “random number” unsupported by evidence. They said Nepra’s own institutional calculations put the marginal cost at Rs31.83 per unit rather than Rs25.30.
+“The revised incremental rate of Rs25.30 per unit proposed by the Ministry of Energy (MoE), and allowed by the honourable Chairman and Member (Law), is based on the generation mix apparently assumed at the design stage of the package, with updated fuel prices,” the two members observed.
+They called for the immediate suspension of the ISP until authentic data became available.
+The dissenting members argued that compliance with the federal cabinet’s decision and Nepra’s own directives required a reassessment of the existing rate of Rs22.98 per unit to determine whether it should be retained, revised or suspended. However, this exercise had not been carried out, resulting in the continuation of the package at a rate below the actual cost of supplying incremental electricity.
+“The resulting misalignment has had implications for consumers in two ways. First, to the extent incremental consumption increased the system’s average fuel cost, the resulting impact was recovered from all consumers through the FCA mechanism. Second, because incremental units are excluded from quarterly tariff adjustments, the exclusion of such units increases the quarterly adjustment borne by consumers not availing the package,” they said.
+The two members, therefore, recommended the temporary suspension of the tariff package rather than choosing the proposed rate of Rs25.30 or above per unit.
+They questioned how a package based on the principle of cost-reflectivity could continue without a validated cost-reflective rate. They argued that since the alternative rate had no credible link with the actual marginal cost, continuation of the package was no longer justified.
+They said other consumers should not be made to bear the cost of a review that the MoE was required to submit five months ago but had yet to provide.
+In his casting vote, Nepra Chairman Waseem Mukhtar observed that the dissenting members’ conclusions “need serious consideration”. However, he said suspending the package at this stage would not be appropriate and that the Ministry of Energy should be given another opportunity to provide the information repeatedly sought by the regulator, including in its latest determination.
+All four members agreed that the Power Division was required to submit revised calculations six months ago but had failed to do so despite repeated reminders from Nepra. They also regretted that the ministry had not responded adequately to the questions and queries raised by the regulator.
+“The marginal price, in proper form, was not provided to the regulator by either the Independent System and Market Operator (ISMO) or the Power Planning and Monitoring Company (PPMC), which were duty-bound to do so. Since the ISP is a flagship project of the ministry, it should give due consideration to the observations of Nepra and the lack of inter-agency coordination among the entities working under the ministry,” the members observed.
+The determination also sets deadlines for the relevant entities to provide the required information. The four members warned that failure to meet these deadlines could lead to an adverse outcome in the review of the programme, including its suspension or termination.
+“Furthermore, any entity that fails to provide the required information within the stipulated timeline shall lead to initiation of legal proceedings under the applicable legal framework,” they stated.
+Explaining his decision, Nepra chairman said: “I hereby exercise, in due and faithful discharge of the functions of the Authority, my second and casting vote envisaged and entrusted to me under the Nepra Act in favour of the First Opinion, thereby breaking the deadlock in relation to the aforesaid issues. Accordingly, the First Opinion constitutes the Order of the Authority.”
+Meanwhile, Nepra allowed power distribution companies to charge an additional Rs2.37 per unit from all consumers in their November bills under the monthly fuel cost adjustment (FCA) mechanism to recover an additional Rs25 billion.
+Published in Dawn, November 7th, 2026

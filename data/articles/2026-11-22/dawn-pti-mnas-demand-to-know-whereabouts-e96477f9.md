@@ -1,0 +1,46 @@
+# PTI MNAs demand to know whereabouts of party leaders detained in KP, seek their court production
+
+- Source: Dawn
+- Published: Sun, 22 Nov 2026 18:24:35 +0500
+- Link: https://www.dawn.com/news/2046325/pti-mnas-demand-to-know-whereabouts-of-party-leaders-detained-in-kp-seek-their-court-production
+- Collected: 2026-11-22 15:00:36 UTC
+
+---
+
+ISLAMABAD: PTI lawmakers from Khyber Pakhtunkhwa on Sunday reiterated their demand for the immediate disclosure of the whereabouts of all detained PTI leaders and workers, their production before the courts and the provision of their legal right to defence.
+The demand was made during a meeting of PTI’s elected members of the National Assembly (NA) from KP, held in Islamabad under the prevailing political and constitutional situation, according to a statement by the party.
+At the meeting, the lawmakers called for the immediate disclosure of the whereabouts of now non-functional chief minister Sohail Afridi, KP Assembly Speaker Babar Saleem Swati, provincial president Junaid Akbar Khan and other detained party leaders and workers.
+Afridi — whose role as the chief minister was rendered non-functional due to governor’s rule — Swati and some other lawmakers have been in “preventive detention” since emergency was imposed, according to police. KP Governor Faisal Karim Kundi also said last month that Afridi and Swati had been placed under house arrest.
+The lawmakers expressed serious concern over the alleged arrests and undisclosed whereabouts of Afridi, Swati, Junaid Akbar Khan, MNAs Dr Amjad, Fazal Muhammad Khan, Naseem Shah, Iqbal Afridi and Zubair Wazir, along with provincial ministers and MPAs.
+They demanded that all detained elected representatives be immediately brought before the public and produced before the relevant courts.
+“Their families should be informed about the reasons for their arrests and places of detention, while they must be granted the full legal right to defend themselves,” the statement said.
+The PTI members stressed that depriving elected representatives of their political activities and keeping them in undisclosed detention amounted to an assault on democratic values and the public mandate.
+In last month’s comments on detentions after governor’s rule, Minister of State for Interior Tallal Chaudhry had said those with cases against them will be tried, while others would be released.
+The participants also condemned the recent detentions of former provincial minister Taimur Saleem Jhagra, Kamran Bangash and Irfan Saleem under the MPO, asserting that their arrests despite protective bail granted by the Peshawar High Court raised serious questions about respect for judicial orders and the rule of law.
+The PTI lawmakers demanded that the three leaders be immediately produced before the court, released and provided with all legal facilities, the statement said.
+Former National Assembly speaker Asad Qaiser, along with MNAs Atif Khan, Saleem Rehman, Sahibzada Sibghatullah, Mehboob Shah, Shahram Khan Tarakai, Shahzada Gastasap, Muhammad Nawaz Khan, Asif Khan, Ali Asghar Khan, Arbab Sher Ali, Sohail Sultan, Ali Khan Jadoon, Sajid Momand, Shah Ahad and Bashir Khan, attended the meeting.
+The PTI statement comes a day after it emerged that President Asif Ali Zardari promulgated an ordinance, doing away with most of the “privileges” of KP lawmakers, including protection against “preventive detention”.
+Through an amendment ordinance related to the privileges of MPAs, drastic changes have been made in the KP Provincial Assembly (Powers, Immunities and Privileges) Act 2026, as 21 of its 40 sections have been omitted, including those providing protection to the MPAs against “preventive detentions” and offences related to “breach” of privileges.
+Four other ordinances promulgated provided a legal framework for special initiatives in the designated 12 districts and other districts in the province.
+With the imposition of emergency in KP on Oct 11, an Area Representative and Development Council (ARDC) was formed to oversee 12 districts that were deemed to face intense security challenges, including the merged districts.
+On governor’s rule and ongoing political situation
+The meeting also condemned reported raids on the homes of PTI workers and detentions under MPO following the imposition of governor’s rule in KP on Oct 11.
+The participants alleged harassment of political workers, violation of the sanctity of homes and restrictions on political activities, condemning them as “blatant violations of the Constitution and fundamental human rights”. They demanded the immediate release of all detained party workers.
+Rejecting the imposition of governor’s rule in KP on the pretext of terrorism, the meeting asserted that the PTI provincial government had consistently adopted a zero-tolerance policy against terrorism. The participants said terrorism could not be “used as a political tool to undermine the democratic mandate” of the province.
+They called for the immediate and effective implementation of the National Action Plan and strict adherence to a resolution adopted by all political parties in KP.
+During the meeting, PTI leaders claimed that governor’s rule had further aggravated the province’s political, economic and administrative challenges. It also criticised KP Governor Kundi, saying that instead of representing the federation and playing a constructive role in resolving provincial issues, his actions were further complicating the situation.
+The participants expressed “serious concern” over delays by the federal government in releasing KP’s financial entitlements and deductions from its resources. They said Prime Minister Shehbaz Sharif had promised Rs160 billion to the province, but under a new agreement, the federal government had made deductions of approximately Rs157bn, which they termed an injustice to the people of the province.
+According to the statement, they contended that the federal government was “treating the province like a stepchild” under the pretext of governor’s rule and stressed that the people of the province could not be deprived of their constitutional and financial rights.
+The meeting also expressed concern over the withdrawal of security provided to JUI-F chief Maulana Fazlur Rehman. The participants maintained that ensuring the security of all political leaders, irrespective of political differences, was the responsibility of the state. They demanded that Fazl and other leaders of his party be immediately provided with the required security.
+The participants welcomed PPP scion Bilawal Bhutto-Zardari’s statement describing Imran as a political prisoner and his support for PTI’s position on the reserved seats issue. They termed Imran a major political stakeholder and said that attempts to exclude him from the political process were detrimental to democracy.
+They stressed that the PPP should go beyond statements and take practical steps, calling for Bilawal to dissociate himself from the imposition of governor’s rule and not vote for its extension in the NA.
+The meeting concluded with a “reaffirmation of the participants’ commitment to the supremacy of the Constitution and the rule of law, the protection of political freedoms, safeguarding the province’s constitutional and financial rights, respect for the public mandate and ensuring the security of all political leaders”, the statement added.
+PTI seeks Imran’s access to personal physician
+According to the statement, the meeting also discussed in detail the health and treatment of incarcerated PTI founder Imran Khan, the law and order situation in KP, concerns over the imposition of governor’s rule, the province’s constitutional and financial rights, and the overall political situation in the country.
+Imran has been in prison since Aug 5, 2023, while his wife was arrested on Jan 17, 2025 in a separate case in which the couple were sentenced. The IHC has allowed him twice-a-week meetings with his family, lawyers and other associates, but despite multiple court directives, the meetings have been largely restricted.
+Imran and Bushra’s lawyers were able to meet the couple earlier this month after a gap of several months, after the Islamabad High Court issued directives for the meeting to aid legal consultation.
+In the meeting, PTI lawmakers demanded that all facilities be provided to Imran in accordance with the jail manual and Supreme Court (SC) judgments.
+They called for him to have immediate access to his personal physician and for the restrictions on meetings with his family, lawyers and political leaders to be removed, maintaining that any negligence or unnecessary restrictions concerning his health and safety would be unacceptable.
+The meeting also strongly condemned the detention of Imran’s sister Aleema Khan, held since late September under Section 3 of the Maintenance of Public Order Ordinance (MPO), and demanded her immediate release.
+It called for Bushra Bibi’s release as well and demanded that she be provided justice in accordance with the law.
+According to the statement, the participants further demanded that cases against Dr Yasmin Rashid, Shah Mahmood Qureshi, Mahmoodur Rashid, Ejaz Chaudhry and other detained PTI leaders and workers be decided on merit, without political victimisation.

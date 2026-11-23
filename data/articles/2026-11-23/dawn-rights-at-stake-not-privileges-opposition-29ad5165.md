@@ -1,0 +1,43 @@
+# ‘Rights at stake, not privileges’: Opposition leaders write to SC, FCC, IHC chief justices on Imran, Bushra’s health
+
+- Source: Dawn
+- Published: Mon, 23 Nov 2026 22:29:16 +0500
+- Link: https://www.dawn.com/news/2046555/rights-at-stake-not-privileges-opposition-leaders-write-to-sc-fcc-ihc-chief-justices-on-imran-bushras-health
+- Collected: 2026-11-23 18:56:11 UTC
+
+---
+
+ISLAMABAD: National Assembly and Senate opposition leaders, Mahmood Khan Achakzai and Allama Raja Nasir Abbas, on Monday wrote to the chief justices of the Federal Constitutional Court (FCC), the Supreme Court (SC) and the Islamabad High Court (IHC), urging them to take notice of the health condition of PTI founder Imran Khan and his wife Bushra Bibi.
+Imran has been in prison since August 2023. The IHC has allowed him twice-a-week meetings — on Tuesdays and Thursdays — with his family, lawyers and other associates. But despite multiple court directives, the PTI founder has been restricted from meeting visitors. Concerns about his health have also arisen in the past year, with the PTI demanding he be given medical treatment by his personal physicians, a demand as yet unheeded by the government.
+In an open letter to the same three judges last week, Imran appealed for medical treatment for himself and Bushra Bibi.
+Advocate Khalid Yousuf Chaudhry, counsel for the incarcerated PTI founder, told Dawn on Monday that the letter by Achakzai and Abbas urged the SC to convert the application into a petition and hear it as a case of basic human rights.
+Chaudhry said the joint letter was written by the opposition leaders in their constitutional capacity by invoking the high judiciary’s jurisdiction and requesting that the letter be treated as a petition for the enforcement of fundamental rights.
+It also demanded that a writ of mandamus be issued regarding the non-implementation of the SC’s Aug 18 order for shifting Imran to Shifa International Hospital, and the concerns regarding Imran and Bushra Bibi’s health and detention.
+In the seven-page letter, seen by Dawn, the two opposition leaders argued that Imran’s life was in danger in state custody.
+“An order of the SC made to protect that life has been flouted and ignored for three months now,” it said.
+“The threat to Imran’s life has increased, not diminished.”
+Recalling the PTI founder’s open letter on Nov 16 from Adiala jail in which he described being denied fundamental rights and the impact on his health, they demanded that his plea be answered “through a writ of mandamus that compels the state to do what the Constitution and the SC already require of it”.
+It said that Imran suffered from cardiac and blood pressure issues, loss of sight and solitary confinement with access largely denied to his lawyers and family and medical recommendations to improve his well-being ignored. In particular, it pointed out that solitary confinement of over 15 consecutive days was prohibited under the United Nations Standard Minimum Rules for the Treatment of Prisoners.
+Imran, the letter said, had been held in these conditions for nearly 11 months.
+The letter added that Imran’s case was “no longer a domestic matter that the government can wish away”, as UN High Commissioner for Human Rights Volker Türk had taken notice of the issue and called for Imran’s release and proper treatment, as well as defusing of political tensions around the case.
+It also recalled that Pakistan, as a party to the International Covenant on Civil and Political Rights as well as the Convention against Torture, had made these commitments to human rights in its own name and was bound to uphold them.
+“The high commissioner’s statement is a warning to the government. It is also a reminder to all of us that the reputation of Pakistan’s institutions, including its courts, is now being judged by how this case is handled.”
+The opposition leaders said that the Aug 18 order by the SC was “defeated” within 72 hours: the PTI founder was instead taken to the state-run Pakistan Institute of Medical Sciences (Pims), then returned to the jail before dawn, while the ordered medical board was never constituted.
+“The hospital and the independent doctors were the substance of the order,” the opposition leaders argued.
+“An order to provide independent care is not implemented by providing care that is not independent.”
+Now, three months after the order was made, they said, it remained “unimplemented in every essential respect” while Imran’s condition had grown worse, the letter said.
+It also highlighted that Bushra Bibi needed a second eye operation to prevent permanent loss of sight and her access to her doctors was being restricted.
+“The rights at stake are not privileges of a prisoner. They are guarantees the Constitution makes to every person, which no conviction and no executive convenience can suspend,” the letter stressed.
+The letter demanded that the chief justices, within their respective constitutional jurisdictions, “treat this letter as a petition for the enforcement of fundamental rights and issue a writ of mandamus, or such directions as are necessary”, to the federal government, the Islamabad chief commissioner, the Punjab inspector general of prisons and the superintendent of Adiala jail.
+They asked that the writ of mandamus direct these authorities to move Imran to Shifa International Hospital within 24 hours and keep him there as long as the medical board advised; to constitute this board “exactly as ordered” and carry out the treatments and investigations it recommended without delay; and to place his examination and treatment under the supervision of his own physician, Dr Faisal Sultan, as well as his sister Dr Uzma Khan, with continuous access and complete medical records to be provided within 24 hours.
+In addition, it called for his solitary confinement to be ended immediately and his rights to weekly meetings, regular calls with his family, unhindered access to his lawyers, and access to “books, newspapers and recreation” to be restored, and transferring Bushra Bibi to a specialised eye hospital for her second operation under specialists of her family’s choice and the release of her full medical record to her family and counsel.
+The letter also urged that a court officer or local commission be appointed to oversee and report on compliance within seven days; that the pending contempt petition, appeals and applications be fixed for urgent hearing while holding those who “defeated” the Aug 18 order to account; and that the federal government be directed to bring Imran and Bushra’s detention conditions into conformity with Pakistan’s obligations under the International Covenant on Civil and Political Rights as well as the Convention against Torture.
+“Every day that the court’s order remains unimplemented diminishes the authority of the court and the promise of Article 9 and every day it is noticed far beyond our borders,” the letter stressed.
+“If harm comes to Imran or to Bushra Bibi in state custody, the responsibility will rest on the state, but history will also ask what the courts did when they were told, in plain words, by the elected representatives of the people in both Houses of Parliament, that a life was at risk.”
+Imran and Bushra Bibi’s health
+Imran has been in prison since August 5, 2023, while his wife was arrested on January 17, 2025, in a separate case in which the couple were sentenced.
+Imran’s eye ailment — right central retinal vein occlusion — came to light in late January, following which he has been taken to hospital multiple times.
+On Aug 18, the SC directed the government to shift the jailed ex-premier to Shifa International Hospital in Islamabad, a day after the superintendent of the Adiala jail — where Imran is imprisoned — submitted a report to the court on the ex-premier’s health condition.
+However, the government took the PTI founder to Pims and subsequently transported him back to prison. At the time, Information Minister Attaullah Tarar had blamed “the security situation created by PTI workers on the way to and outside” the hospital for the diversion. The PTI has denied the allegations and accused the government of deliberately flouting the court’s orders.
+Meanwhile, Bushra Bibi suffered a retinal detachment in April and was taken to the hospital for surgery. She has since approached the courts seeking an immediate medical examination by an ophthalmologist and permission to receive treatment from doctors of her choice at her own expense amid concerns over her deteriorating eyesight.
+According to the former first lady, doctors who examined her had diagnosed her condition as a “mature cataract” and advised that another eye surgery would be required.
